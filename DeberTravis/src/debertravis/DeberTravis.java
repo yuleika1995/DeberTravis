@@ -25,7 +25,7 @@ public class DeberTravis {
       System.out.println("la suma es"+resta);
       
        int divicion=numero1/numero2;
-     System.out.println("la suma es"+divicion);
+     System.out.println("la suma es"+divicion) ;
     }
     
 }
