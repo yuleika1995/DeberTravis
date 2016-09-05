@@ -17,6 +17,7 @@ public class Travis {
     public static void main(String[] args) {
         // TODO code application logic here
         int numero1=10; //variables enteras
+        int numero2=5;  //variables enteras
     }
     
 }
