@@ -18,7 +18,8 @@ public class DeberTravis {
         // TODO code application logic here
           int numero1=10; //variables enteras
         int numero2=5;  //variables enteras
-
+ int suma=numero1+numero2; 
+       System.out.println("la suma es"+suma);
     }
     
 }
