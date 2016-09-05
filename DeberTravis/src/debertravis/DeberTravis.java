@@ -20,6 +20,9 @@ public class DeberTravis {
         int numero2=5;  //variables enteras
  int suma=numero1+numero2; 
        System.out.println("la suma es"+suma);
+       
+        int resta=numero1-numero2;
+      System.out.println("la suma es"+resta);
     }
     
 }
